@@ -30,3 +30,5 @@
 /gen-index/ppsspp-gen-index
 
 /passthru/passthru.exp
+.vs
+.vscode
